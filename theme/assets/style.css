@@ -1,0 +1,9 @@
+.sidebar .nav-link.active {
+    color: #ffffff;
+    background-color: #2470dc;
+}
+
+.btn-group-sm>.btn, .btn-sm {
+    padding: 0.15rem 0.5rem;
+    font-size: .775rem;
+}
